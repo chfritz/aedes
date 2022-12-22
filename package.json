@@ -1,5 +1,5 @@
 {
-  "name": "aedes",
+  "name": "aedes-preunsub",
   "version": "0.51.3",
   "description": "Stream-based MQTT broker",
   "main": "aedes.js",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moscajs/aedes.git"
+    "url": "https://github.com/chfritz/aedes.git"
   },
   "keywords": [
     "mqtt",
